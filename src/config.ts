@@ -1,6 +1,6 @@
 import fs from 'fs';
 import dotenv from 'dotenv';
-import { TwitterApi } from 'twitter-api-v2-local';
+import { TwitterApi } from 'twitter-api-v2';
 
 export const CONFIG = dotenv.parse(fs.readFileSync(__dirname + '/../.env'));
 

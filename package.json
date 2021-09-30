@@ -21,7 +21,6 @@
     "express": "^4.17.1",
     "express-session": "^1.17.2",
     "tsc-watch": "^4.5.0",
-    "twitter-api-v2": "^1.5.2",
-    "twitter-api-v2-local": "file:../../twitter-api-v2"
+    "twitter-api-v2": "^1.5.2"
   }
 }
