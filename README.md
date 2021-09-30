@@ -1,4 +1,4 @@
-# twitter-api-v2-user2-oauth-example
+# twitter-api-v2-user-oauth2-example
 
 This project shows you how to make a simple 3-legged OAuth2 user flow (BETA).
 
